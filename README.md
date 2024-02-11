@@ -1,11 +1,8 @@
-👋 Hey there! I'm Welljones.
-Currently immersed in the world of programming and focusing on web development.
-Passionate about crafting unique experiences on the web.
-Always eager to collaborate and learn from fellow programmers.
-Let's join forces to enhance our skills and create amazing things together! 🚀🌐.
+About Me⚙️
 
+Hello there! 👋 I'm a graduate of BS Information Technology last 2019. Currently working in the Accounting Department at 711 Corporation, where I'm gaining invaluable real-world experience. 
+Despite my initial lack of technical experience, especially in Web development, I'm on a relentless journey of self-improvement, constantly learning and exploring various technologies to stay ahead of the curve.
 
-<!---
-welljones/welljones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+For the past year and continuing into the present, I've dedicated a minimum of 2 hours every night to dive deep into programming. Alongside my studies, I'm also actively working on personal projects, with plans to delve into freelancing soon to further hone my skills.
+
+My true passion lies in crafting unique experiences on the web. I thrive on collaboration and am always eager to learn from and contribute to the programming community. Let's unite our efforts, enhance our skills, and create amazing things together! 🚀🌐.
