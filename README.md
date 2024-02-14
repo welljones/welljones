@@ -1,6 +1,6 @@
 About Me⚙️
 
-• Greetings!  I'm a recent graduate in Information Technology (2019) currently working in the Accounting Department at 711 Corporation. While my current role doesn't directly involve tech, I'm passionate about web development and have embarked on a self-improvement journey to acquire the necessary skills.
+• Greetings! 👋🏻 I'm a recent graduate in Information Technology (2019) currently working in the Accounting Department at 711 Corporation. While my current role doesn't directly involve tech, I'm passionate about web development and have embarked on a self-improvement journey to acquire the necessary skills.
 
 • For the past year, I've dedicated myself to diligently learning programming by investing at least 2 hours each night. This, alongside my work, fuels my personal projects and planning to venture into freelancing soon to sharpen my abilities further.
 
