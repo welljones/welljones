@@ -1,9 +1,8 @@
 About Me⚙️
 
-• Greetings! 👋🏻 I'm a recent graduate in Information Technology (2019) currently working in the Accounting Department at 711 Corporation. While my current role doesn't directly involve tech, I'm passionate about web development and have embarked on a self-improvement journey to acquire the necessary skills.
-
-• For the past year, I've been diligently carving out time each night (at least 2 hours!) to learn programming. This, alongside my work, fuels my personal projects and planning to venture into freelancing soon to sharpen my abilities further.
-
-• My true passion lies in crafting innovative web experiences. I'm a firm believer in collaboration and always open to learning from and contributing to the vibrant programming community.  Let's connect, share knowledge, and build amazing things together!
-
-
+•  Aspiring to pursue a Professional career in the tech industry, with a particular focus on web development.
+•  Passionate about crafting innovative solutions in the realm of web development.
+•  Committed to consistent effort and improvement, putting in the grind each night.
+•  Dedication as ongoing learning and upskilling to stay ahead in the ever-evolving tech landscape.
+•  Enthusiastic about collaborating with and learning from fellow developers to broaden knowledge and skills.
+•  Graduated with a degree in IT in 2019, laying the foundation for a journey in the tech world.
