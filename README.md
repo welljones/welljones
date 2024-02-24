@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Languages & tools:</h2>
+<h2 align="left">Languages & tools that I am currently working</h2>
 
 ###
 
