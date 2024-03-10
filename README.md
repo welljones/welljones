@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">About me⤵️</h2>
+<h2 align="left">About me⤵️</h2>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<h2 align="center">Languages & tools I've working on</h2>
+<h2 align="letf">Languages & tools I've working on</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
