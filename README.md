@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">About me⤵️</h2>
+<h2 align="center">About me⤵️</h2>
 
 ###
 
